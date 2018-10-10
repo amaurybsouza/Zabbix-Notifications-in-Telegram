@@ -8,6 +8,4 @@
 
 Conforme imagem abaixo, você deve procurar pelo bot no Telegram de nome, BotFather e selecionar o BotFather para conversar:
 
-
-
-     
+![Criando bot no Telegram](Monitoramento-com-Zabbix/imagens/criação do bot.png)
