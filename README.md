@@ -24,3 +24,17 @@ Em seguinda, você pode digitar no chat do bot `/start`, que ele mostrará as op
 6º passo: Feito isso, anotar o token de acesso a API gerada, ela é importante e será utilizada durante o processo de definição da integração com o Zabbix.
 
 ![botfather2](imagens/botfather2.png)
+
+7º passo: Instalação das dependências:
+
+   `apt-get install python-pip`
+   `pip install pyTelegramBotAPI`
+   
+8º passo: Nesse passo, você deve acessar seu servidor Zabbix, e procurar pela localização do `AlertScriptPath`
+
+
+
+
+
+
+
