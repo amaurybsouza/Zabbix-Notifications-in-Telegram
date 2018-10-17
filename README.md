@@ -34,6 +34,8 @@ Em seguinda, você pode digitar no chat do bot `/start`, que ele mostrará as op
 
 ![botfather3](imagens/botfather3.png)
 
+9º passo: O script será adicionado neste diretório, você pode obter esse script aqui: 
+
 
 
 
