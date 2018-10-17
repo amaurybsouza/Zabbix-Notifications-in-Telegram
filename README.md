@@ -21,4 +21,6 @@ Em seguinda, você pode digitar no chat do bot /start, que ele mostrará as opç
 5º passo: Digitar um nome de usuário para o bot, que obrigatoriamento deve terminar com `bot`. 
    Exemplo: `alertazbx_bot`
       
-6º passo: 
+6º passo: Feito isso, anotar o token de acesso a API gerada, ela é importante e será utilizada durante o processo de definiço da integração com o Zabbix.
+
+![botfather2](imagens/botfather2.png)
