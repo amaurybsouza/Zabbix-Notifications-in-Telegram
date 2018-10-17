@@ -32,7 +32,7 @@ Em seguinda, você pode digitar no chat do bot `/start`, que ele mostrará as op
    
 8º passo: Nesse passo, você deve acessar seu servidor Zabbix, e procurar pela localização do `AlertScriptPath`
 
-
+![botfather3](imagens/botfather3.png)
 
 
 
