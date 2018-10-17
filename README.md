@@ -6,15 +6,15 @@
 
 2° passo: Devemos ter também uma conta criada no Telegram para que seja possível o envio das notificações. Vamos então, criar um bot no Telegram:
 
-Conforme imagem abaixo, você deve procurar pelo bot no Telegram de nome, BotFather e selecionar o BotFather para conversar:
+Conforme imagem abaixo, você deve procurar pelo bot no Telegram de nome, `BotFather` e selecionar o BotFather para conversar:
 
 ![criacaodobot](imagens/criacaodobot.png)
 
-Em seguinda, você pode digitar no chat do bot /start, que ele mostrará as opções, conforme imagem abaixo:
+Em seguinda, você pode digitar no chat do bot `/start`, que ele mostrará as opções, conforme imagem abaixo:
 
 ![botfather1](imagens/botfather1.png)
 
-3º passo: Digitar /newbot para a criação do bot no Telegram.
+3º passo: Digitar `/newbot` para a criação do bot no Telegram.
 
 4º passo: Digitar um nome para o bot, exemplo: Curso Zabbix.
 
