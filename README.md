@@ -13,4 +13,10 @@ Conforme imagem abaixo, você deve procurar pelo bot no Telegram de nome, BotFat
 Em seguinda, você pode digitar no chat do bot /start, que ele mostrará as opções, conforme imagem abaixo:
 
 ![botfather1](imagens/botfather1.png)
+
+3º passo: Digitar /newbot para a criação do bot no Telegram.
+
+4º passo: Digitar um nome para o bot, exemplo: Curso Zabbix
+
+5º passo: Digitar um nome de usuário para o bot, que obrigatoriamento deve terminar com `bot`
       
