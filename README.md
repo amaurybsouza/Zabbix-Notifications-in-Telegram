@@ -39,6 +39,7 @@ Em seguinda, você pode digitar no chat do bot `/start`, que ele mostrará as op
 10º passo: Dar permissão de execução nesse script: `chmod +x alerta_telegram.py`
 
 11º passo: Pegar o ID do usuário do Telegram, é necessário o ID de usuário par enviar mensagem.
+
 Para pegar o ID, abra o navegador e digite: https://api.telegram.org/bot<INSIRA-O –TOKEN-AQUII>/getUpdates
 
 ![botfather4](imagens/botfather4.png)
