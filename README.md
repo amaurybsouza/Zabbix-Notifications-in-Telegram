@@ -52,4 +52,5 @@ Menu Admistração -> Tipos de mídias
 
 ![botfather5](imagens/botfather5.png)
 
+13º passo: 
 
