@@ -1,4 +1,4 @@
-# Monitoramento com Zabbix
+# Zabbix in Telegram
 
 ### Nessa parte inicial, irei mostrar basicamente como enviar alertas do Zabbix para o Telegram.
 
