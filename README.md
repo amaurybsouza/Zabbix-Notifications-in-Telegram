@@ -52,5 +52,7 @@ Menu Admistração -> Tipos de mídias
 
 ![botfather5](imagens/botfather5.png)
 
-13º passo: 
+13º passo: Selecionar o tipo de mídia na ação:
+
+![botfather6](imagens/botfather6.png)
 
