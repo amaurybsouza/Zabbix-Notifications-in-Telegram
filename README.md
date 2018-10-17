@@ -1,6 +1,6 @@
 # Monitoramento com Zabbix
 
-### Irei mostrar basicamente como enviar alertas do Zabbix para o Telegram.
+### Nessa parte inicial, irei mostrar basicamente como enviar alertas do Zabbix para o Telegram.
 
 1° passo: Com o Zabbix já instalado em seu sistema, e com um dos agentes funcionando (no meu caso irei monitorar um agent que está instalado no CentOS).
 
