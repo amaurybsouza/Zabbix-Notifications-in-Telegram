@@ -12,4 +12,5 @@ Conforme imagem abaixo, você deve procurar pelo bot no Telegram de nome, BotFat
 
 Em seguinda, você pode digitar no chat do bot /start, que ele mostrará as opções, conforme imagem abaixo:
 
-![botfather1](imagens/botfather.png)
+![botfather1](imagens/botfather1.png)
+      
