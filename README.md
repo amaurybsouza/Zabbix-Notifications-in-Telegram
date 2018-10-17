@@ -41,3 +41,5 @@ Em seguinda, você pode digitar no chat do bot `/start`, que ele mostrará as op
 11º passo: Pegar o ID do usuário do Telegram, é necessário o ID de usuário par enviar mensagem.
 Para pegar o ID, abra o navegador e digite: https://api.telegram.org/bot<INSIRA-O –TOKEN-AQUII>/getUpdates
 
+![botfather4](imagens/botfather4.png)
+
