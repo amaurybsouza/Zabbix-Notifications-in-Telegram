@@ -1,4 +1,4 @@
-# Zabbix in Telegram
+# Notificaçes do Zabbix com Telegram
 
 ### Nessa parte inicial, irei mostrar basicamente como enviar alertas do Zabbix para o Telegram.
 
