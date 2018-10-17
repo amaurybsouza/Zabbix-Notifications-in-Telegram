@@ -44,3 +44,12 @@ Para pegar o ID, abra o navegador e digite: https://api.telegram.org/bot<INSIRA-
 
 ![botfather4](imagens/botfather4.png)
 
+Teste o envio do alerta para um usuário: ./alerta_telegram.py "166586565" "ALERTA" "Testando."
+
+12º passo: Adicionar mídia do Zabbix:
+
+Menu Admistração -> Tipos de mídias
+
+![botfather5](imagens/botfather5.png)
+
+
